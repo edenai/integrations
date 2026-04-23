@@ -20,9 +20,9 @@ You can also install it straight from the [VS Code Marketplace](https://marketpl
 
 Once installed, open the Cline sidebar from the activity bar on the left.
 
-## 3. Open Cline settings
+## 3. Choose Bring my Own Key
 
-In the Cline panel, click the **⚙️ settings icon** at the top to open the configuration screen.
+Choose the last option : **Bring my Own Key** and click **Continue**
 
 ## 4. Add Eden AI as an OpenAI Compatible provider
 
@@ -31,7 +31,7 @@ Cline ships with a built-in **OpenAI Compatible** provider — no plugin fork or
 In the settings panel:
 
 - **API Provider** → select `OpenAI Compatible`
-- **Base URL** → `https://api.edenai.run/v3/llm`
+- **Base URL** → `https://api.edenai.run/v3`
 - **API Key** → paste your Eden AI key from [app.edenai.run](https://app.edenai.run/)
 - **Model ID** → `@edenai`
 
