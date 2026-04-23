@@ -4,6 +4,8 @@ Connect [OpenClaw](https://openclaw.ai) to Eden AI and route your agent through 
 
 > Get your Eden AI key at [app.edenai.run](https://app.edenai.run/) → **API Keys**.
 
+> Follow this tuto in the same time with our video tuto on Youtube : https://youtu.be/HxIAYOQT90Q 
+
 ---
 
 ## 1. System dependencies
