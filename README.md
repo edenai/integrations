@@ -13,7 +13,7 @@ Each guide walks through installation, configuration, and model selection so you
 | Tool | Guide | Video | Integration page |
 |---|---|---|---|
 | OpenClaw | [openclaw.md](./openclaw.md) | [YouTube](https://youtu.be/HxIAYOQT90Q) | [edenai.co/integrations/openclaw](https://www.edenai.co/integrations/openclaw) |
-| OpenCode | [opencode.md](./opencode.md) | [YouTube](https://youtu.be/XXXXXXXXXXX) | [edenai.co/integrations/opencode](https://www.edenai.co/integrations/opencode) |
+| OpenCode | [opencode.md](./opencode.md) | [YouTube](https://youtu.be/OYHRY5rblz0) | [edenai.co/integrations/opencode](https://www.edenai.co/integrations/opencode) |
 | Cline | [cline.md](./cline.md) | [YouTube](https://youtu.be/_M8PwHSwgMQ) | [edenai.co/integrations/cline](https://www.edenai.co/integrations/cline) |
 
 More integrations are added regularly. Open an issue if there's a tool you'd like us to cover.
